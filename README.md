@@ -4,7 +4,6 @@
 The keyword extraction technique will sift through the whole set of data in minutes and obtain the words and phrases that best describe each subject. This way, you can easily identify which parts of the available data cover the subjects you are looking for while saving your teams many hours of manual processing.
 
 
-**Streamlit app:** https://ankitkalauni-streamlitkeywordexe-main-tgj0pu.streamlitapp.com/
 
 # How to download
 
